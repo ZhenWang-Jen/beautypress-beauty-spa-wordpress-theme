@@ -1,0 +1,1 @@
+# beautypress-beauty-spa-wordpress-theme
