@@ -1,1 +1,1 @@
-# beautypress-beauty-spa-wordpress-theme
+# empty wd theme
