@@ -1,1 +1,1 @@
-# Purshed Wordpress Theme
+# Purchased Wordpress Theme
