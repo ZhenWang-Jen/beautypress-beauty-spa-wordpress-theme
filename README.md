@@ -1,1 +1,1 @@
-# empty wd theme
+# Purshed Wordpress Theme
